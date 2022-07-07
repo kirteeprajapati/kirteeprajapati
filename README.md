@@ -10,7 +10,9 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <br>
-Some more to explore
+Some more to explore |
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 <br>
 - 📫 How to reach me **kirtee.praja@gmail.com**
