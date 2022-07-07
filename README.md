@@ -10,5 +10,5 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <br>
-
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 - 📫 How to reach me **kirtee.praja@gmail.com**
