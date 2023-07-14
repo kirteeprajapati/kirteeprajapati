@@ -4,9 +4,9 @@
 <p align="center"> 
 <br> <i>You can find me or contact me through these networks:</i> </br>
 <a href="https://twitter.com/kirteepraja" target="blank"><img src="https://img.shields.io/twitter/follow/kirteepraja?logo=twitter&style=for-the-badge" alt="kirteepraja" /></a>
-<a href="[https://www.linkedin.com/in/kirtee-prajapati-8525a6227/]" target="[https://www.linkedin.com/in/kirtee-prajapati-8525a6227/]">
-<img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
-</a>
+    <a href="https://www.linkedin.com/in/kirtee-prajapati-8525a6227/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+    </a>
 
 </p>
 
@@ -31,7 +31,10 @@
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
     
 <br>
+</p>
 Some more to explore |
+<p>
+    
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </p>
 <br>
