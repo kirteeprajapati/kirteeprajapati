@@ -46,3 +46,10 @@ Some more to explore |
 </p>
 
 - 📫 How to reach me **kirtee.praja@gmail.com**
+<p align="center">
+
+[![Kirtee's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kirteeprajapati&theme=xcode)](https://git.io/kirteeprajapati)
+
+ <a href="https://github.com/kirteeprajapati?tab=followers"><img src="https://img.shields.io/github/followers/kirteeprajapati?label=Followers&style=social" alt="GitHub Badge" align="center"></a> 
+</p>
+ 
