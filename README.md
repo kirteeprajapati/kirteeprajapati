@@ -5,9 +5,15 @@
 <br> <i>You can find me or contact me through these networks:</i> </br>
 <a href="https://twitter.com/kirteepraja" target="blank"><img src="https://img.shields.io/twitter/follow/kirteepraja?logo=twitter&style=for-the-badge" alt="kirteepraja" /></a>
     <a href="https://www.linkedin.com/in/kirtee-prajapati-8525a6227/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-
+    <a href="https://leetcode.com/kirteepraja/" target="_blank">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100083699735486" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Leetcode Badge" />
+    </a>
 </p>
 
 <summary>More about me</summary>
