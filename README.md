@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!! 👋</h1>
-<h3 align="center">sudo make me a sandwich</h3>
+<h3 align="center">sudo make me a sandwich</h3> 
 
 <p align="center"> 
 <br> <i>You can find me or contact me through these networks:</i> </br>
@@ -24,6 +24,7 @@
     <ul>
         <li>🎯 Contribute and create open source projects</li>
         <li>📚 I'm studying C++ | Algorithms | App Web Dev | AI | ML </li>
+        <li>🎯 I unleash my creativity using tools like Figma, Adobe Illustrator, and video editing software as a hobby.</li>
         <li>💬 I thrive on tech discussions</li>
         <li>🌑 Maintain a consistent learning approach</li>
         <li>🎮 My laptop is my constant companion; I never leave home without it! :)</li>
