@@ -2,7 +2,7 @@
 
 <summary>About me</summary>
     <p>
-        I am an enthusiastic self-taught student with a keen eye for detail. Currently, I am actively engaged in the open source community, applying the knowledge I have gained through my studies. In addition, I enjoy assisting individuals who are new to programming within various communities.
+        I am an enthusiastic self-taught student with a keen eye for detail. Engaged in the open source community, applying the knowledge I have gained through my studies.
     </p>
     Here's a glimpse into my techy side:
     <ul>
@@ -19,17 +19,16 @@
 
 <p align="center">
     <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-    
-<br>
+    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> 
 </p>
-Some more to explore |
-<p>
+
+<p align="center">
+Some more to explore | 
     
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </p>
 <br>
-<h3 align="center">sudo make me a sandwich</h3> 
+<h3 align="center">Sudo make me a sandwich</h3> 
 
 <p align="center"> 
 <br> <i>You can find me or contact me through these networks:</i> </br>
