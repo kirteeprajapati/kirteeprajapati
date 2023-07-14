@@ -23,7 +23,7 @@
     Here's a glimpse into my techy side:
     <ul>
         <li>🎯 Contribute and create open source projects</li>
-        <li>📚 I'm studying CPP | Algorithms | App Web Dev | AI | ML </li>
+        <li>📚 I'm studying C++ | Algorithms | App Web Dev | AI | ML </li>
         <li>💬 I thrive on tech discussions</li>
         <li>🌑 Maintain a consistent learning approach</li>
         <li>🎮 My laptop is my constant companion; I never leave home without it! :)</li>
