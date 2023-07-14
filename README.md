@@ -19,8 +19,10 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirteeprajapati&theme=algolia" alt="Kirteeprajapati" /></p>
 
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<p align="center">
+    <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
 
 <br>
 Some more to explore |
