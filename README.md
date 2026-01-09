@@ -1,18 +1,28 @@
 <h1 align="center">Hey there!! 👋</h1>
 
-<summary>About me</summary>
-    <p>
-        I am an enthusiastic self-taught student with a keen eye for detail. Engaged in the open source community, applying the knowledge I have gained through my studies.
-    </p>
-    Here's a glimpse into my techy side:
-    <ul>
-        <li>🎯 Contribute and create open source projects</li>
-        <li>📚 I'm studying C++ | Algorithms | App Web Dev | AI | ML </li>
-        <li>🎯 I unleash my creativity using tools like Figma, Adobe Illustrator, and video editing software as a hobby.</li>
-        <li>💬 I thrive on tech discussions</li>
-        <li>🌑 Maintain a consistent learning approach</li>
-        <li>🎮 My laptop is my constant companion; I never leave home without it! :)</li>
-    </ul>
+<summary><b>About me</b></summary>
+<p>
+I’m a self-taught full-stack developer who likes building real products, breaking them thoughtfully, and fixing them before anyone notices. 
+I’ve worked across large SaaS codebases, shipped production features, migrated frameworks, and occasionally argued with state management until it behaved.
+</p>
+
+<p>
+Most of my time goes into building customer communication platforms (CPaaS), real-time systems, and AI-assisted products — the kind that actually get used, not just demoed.
+</p>
+
+<b>A quick snapshot of my tech life:</b>
+<ul>
+  <li>🧠 Full-stack engineer: Vue 2/3, Nuxt 2/3, React, Node, Go, FastAPI</li>
+  <li>⚡ Built large-scale SaaS features: chat systems, voice calling UIs, CRMs, campaigns, dashboards, automations</li>
+  <li>🤖 Comfortable using AI tools (Claude, Cursor, ChatGPT) for coding, prompting, and rapid prototyping — I let them scaffold, I do the thinking</li>
+  <li>📊 Obsessed with state management, performance, UX polish, and things “feeling right”</li>
+  <li>📚 Currently deepening skills in C++, DSA, system design, AI/ML</li>
+  <li>🎨 Design-curious: Figma, Illustrator, UI iteration until it stops hurting the eyes</li>
+  <li>💬 Always up for tech debates, architecture trade-offs, and why “just one more feature” is a lie</li>
+  <li>🌙 Consistent learner — I ship, refactor, repeat</li>
+  <li>💻 My laptop and I are in a long-term committed relationship</li>
+</ul>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirteeprajapati&theme=algolia" alt="Kirteeprajapati" /></p>
